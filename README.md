@@ -15,8 +15,8 @@ Enhance transparency in doctor utilization and patient movement
 Facilitate faster and more accurate reporting for administrators and evaluation teams
 Minimize manual reporting through automated ETL pipelines
 Ensure data consistency, audit readiness, and regulatory compliance
-📊 Key Dashboards & Insights
 
+📊 Key Dashboards & Insights
 The Power BI dashboards deliver insights across several key areas:
 
 Doctor Performance
@@ -34,8 +34,8 @@ Queue management analysis, patient throughput, and identification of operational
 KPI Monitoring & Compliance
 
 Performance tracking using predefined thresholds aligned with healthcare standards and regulations
-🛠️ Technology Stack
 
+🛠️ Technology Stack
 Analytics & Visualization
 
 Power BI
@@ -56,9 +56,9 @@ Structured for efficient querying and optimized dashboard performance
 
 Data Sources
 
-Structured datasets from healthcare and operational systems (CSV and relational databases)
-🔄 ETL & Data Pipeline Overview
+Structured datasets from healthcare and operational systems (CSV and relational databases
 
+🔄 ETL & Data Pipeline Overview
 The solution follows a well-defined ETL pipeline:
 
 Raw Healthcare Data
@@ -76,12 +76,14 @@ Core ETL Capabilities:
 Automated data ingestion and preprocessing
 Data validation and anomaly detection
 Preparation of standardized datasets for KPI reporting
+
 📈 Results & Impact
 Enabled unified monitoring of healthcare operations across multiple PHCs
 Increased efficiency and accuracy of reporting through automation
 Supported informed decision-making for healthcare stakeholders
 Reduced reliance on manual data handling and reporting processes
 Established a scalable framework for expanding to additional healthcare facilities
+
 👥 Target Users
 Healthcare administrators
 Monitoring & Evaluation (M&E) teams
